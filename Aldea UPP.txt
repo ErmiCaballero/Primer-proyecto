@@ -1,0 +1,10 @@
+	ALDEA UPP 2018
+
+Curso - Taller Git Basico
+
+Aldea UPP es un evento en el cual se ofrece cursos, talleres y conferencias a sus alumnos de las ingenierias de Software, Telematica y Redes y Telecomunicaciones de la Universidad Politecnica de Pachuca.
+Asi como tambien actividades culturales para fortalecer ese campo que es tan importante ya que nos forma como seres.
+
+
+Hecho por Oskar.
+Fundador de DevAimKeys (DAK)

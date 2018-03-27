@@ -1,0 +1,9 @@
+	ALDEA UPP 2018
+
+Curso - Taller Git Basico
+
+Git es un sistema controlador de versiones distribuido que facilita el trabajo de proyectos entre una misma persona, asi como en grupo desde distintos lugares.
+Fue diseñado por Linus Torvalds y su uso inicial fue para ayudar a coordinar el trabajo de varias personas.
+
+Origenes
+* 
